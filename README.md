@@ -1,3 +1,4 @@
-# home
-This is the homepage for my github
-# woo this is my landing page
+# Race Bays
+
+# Rattlesnake
+[GitHub](https://github.com/uhhrace/rattlesnake.git)
